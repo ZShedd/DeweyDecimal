@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DeweyDecimal/static/css/main.709c18ae.css",
+    "main.js": "/DeweyDecimal/static/js/main.cd95787e.js",
+    "index.html": "/DeweyDecimal/index.html",
+    "main.709c18ae.css.map": "/DeweyDecimal/static/css/main.709c18ae.css.map",
+    "main.cd95787e.js.map": "/DeweyDecimal/static/js/main.cd95787e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.709c18ae.css",
+    "static/js/main.cd95787e.js"
+  ]
+}

@@ -23,6 +23,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Book Search Engine <br />
 Codebase correction that follows accessibility standards so that the site is optimized for search engines <br />
+![image](https://user-images.githubusercontent.com/116223460/231579654-59c87320-db6a-44f1-8309-76c9fb98f901.png)
+
 
 
 ## Hosting

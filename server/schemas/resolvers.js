@@ -40,7 +40,7 @@ const resolvers = {
       const token = signToken(user);
       return { token, user };
     },
-    saveBook: async (parent, { input }, context) => {
+    saveBook: async (parent, { bookInput }, context) => {
       console.log("input");
       console.log(input);
 

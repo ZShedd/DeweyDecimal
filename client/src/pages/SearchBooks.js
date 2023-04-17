@@ -64,7 +64,7 @@ const SearchBooks = () => {
       const { data } = await saveBook({
         // await saveBook({
         variables: {
-          input: bookToSave,
+          bookInput: bookToSave,
         },
       });
       console.log("save book data: " + JSON.stringify(data));
@@ -116,8 +116,8 @@ const SearchBooks = () => {
         <Row>
           {searchedBooks.map((book) => {
             return (
-              <Col md="4">
-                <Card key={book.bookId} border="dark">
+              <Col key={book.bookId} md="4">
+                <Card  border="dark">
                   {book.image ? (
                     <Card.Img
                       src={book.image}
